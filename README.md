@@ -21,7 +21,7 @@ Não abra o arquivo `index.html` diretamente. O servidor HTTP é necessário par
 O endereço está definido no início do arquivo `app.js`:
 
 ```javascript
-const API_URL = "http://localhost:3000/usuarios";
+const API_URL ="https://pratica-fullstack-backend-1-k7w5.onrender.com/pets"
 ```
 
 Altere esse valor caso o backend seja executado em outro endereço ou porta.
